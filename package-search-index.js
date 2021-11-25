@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"controladores"},{"l":"dao"},{"l":"estructuras"},{"l":"excepciones"},{"l":"hospitaltec"},{"l":"modelo"},{"l":"vista"}];updateSearchResults();
